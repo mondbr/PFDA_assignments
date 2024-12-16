@@ -58,3 +58,15 @@ Clone the repository and open the Jupyter notebooks for each assignment to explo
 * Visual Studio Code Version: 1.96
 * GitHub Codespaces. 
 
+
+ ## References
+
+ 1. https://www.geeksforgeeks.org/
+ 2. https://realpython.com/
+ 3. https://chatgpt.com/
+ 4. https://www.quora.com/What-does-a-1-mean-in-Python
+ 5. https://www.ultraboardgames.com/risk/game-rules.php
+ 6. https://github.com/vsuhasm/SimulateRisk/blob/master/risk_serial.py
+ 7. https://cli.fusio.net/cli/climate_data/webdata/hly4935.csv
+ 8. https://stackoverflow.com/
+
